@@ -1,0 +1,10 @@
+# VSCode
+.vscode/
+
+# Python
+venv/
+
+# Output files
+*.txt
+
+!requirements.txt
